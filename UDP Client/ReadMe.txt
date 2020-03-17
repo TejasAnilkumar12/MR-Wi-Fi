@@ -1,0 +1,1 @@
+The UDP Client can be run on Linux (like Jetson Tx2i) or Windows PC after configuring the Ethernet. Please read the Ethernet Setup guide for more details. 
